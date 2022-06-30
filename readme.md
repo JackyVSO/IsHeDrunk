@@ -1,0 +1,1 @@
+Simple image classifier to determine whether a man is drunk or sober. Built as part of the Fast AI course.
